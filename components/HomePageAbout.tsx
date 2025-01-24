@@ -31,11 +31,12 @@ export default function About() {
           <span className="relative inline-block h-[1px] w-10 md:w-20 bg-white/50"></span>
         </h2>
         <p className="text-lg">
-          I'm a self-taught full-stack developer passionate about creativity and
-          problem-solving. With years of experience, I specialize in building
-          scalable, high-performance web applications that deliver impactful
-          user experiences. Currently pursuing a BSc in Computer Science at the
-          National Open University of Nigeria (NOUN), I'm also the founder of
+          I&apos;m a self-taught full-stack developer passionate about
+          creativity and problem-solving. With years of experience, I specialize
+          in building scalable, high-performance web applications that deliver
+          impactful user experiences. Currently pursuing a BSc in Computer
+          Science at the National Open University of Nigeria (NOUN), I&apos;m
+          also the founder of
           <a href="roomeyfinder.com" target="_blank">
             RoomeyFinder
           </a>
