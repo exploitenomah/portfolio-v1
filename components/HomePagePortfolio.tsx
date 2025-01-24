@@ -14,7 +14,7 @@ export default function Portfolio() {
             <span className="relative inline-block h-[1px] w-10 md:w-20 bg-white/50"></span>
           </h3>
         </div>
-        <ul className="flex gap-x-8 items-stretch overflow-x-auto mt-12 snap-x">
+        <ul className="flex gap-x-4 items-stretch pb-4 overflow-x-auto mt-12 snap-x styled-scrollbar">
           {projects.map((project) => (
             <li key={project.coverImage} className="snap-center min-h-[300px]">
               <PortfolioItem project={project} />

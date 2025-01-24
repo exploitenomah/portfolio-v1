@@ -31,23 +31,19 @@ export default function About() {
           <span className="relative inline-block h-[1px] w-10 md:w-20 bg-white/50"></span>
         </h2>
         <p className="text-lg">
-          I was born in the early 2000&apos;s in Eleme LGA of Nigeria. I am very
-          passionate about creativity and coding is one of the many endeavours I
-          harness my passion into. I&apos;m a fullstack developer with years of
-          experience in building and maintaining beautiful, scalable and highly
-          performant web applications. Although I&apos;m a self-taught
-          developer, I&apos;m currently pursuing a Bsc. in computer science at
-          the NOUN. I&apos;m also actively building a startup&nbsp;
-          <a href="/" target="_blank">
-            Roomeey
+          I'm a self-taught full-stack developer passionate about creativity and
+          problem-solving. With years of experience, I specialize in building
+          scalable, high-performance web applications that deliver impactful
+          user experiences. Currently pursuing a BSc in Computer Science at the
+          National Open University of Nigeria (NOUN), I'm also the founder of
+          <a href="roomeyfinder.com" target="_blank">
+            RoomeyFinder
           </a>
-          &nbsp;where we help nigerian students find compatible roommates who
-          are also schoolmates with ease.
+          , a startup simplifying roommate matching for Nigerian students.
         </p>
-        <p className="text-lg">Fun fact about me: I&apos;m 180+cm tall 😂</p>
-        <p className="text-lg">I&apos;m also a model and writer. </p>
         <p className="text-lg">
-          I love being physically active too and practice yoga and taekwondo.
+          Dedicated to innovation and continuous learning, I strive to create
+          solutions that combine efficiency, functionality, and elegance.{" "}
         </p>
       </div>
     </section>

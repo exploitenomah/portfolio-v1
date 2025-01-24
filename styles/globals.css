@@ -45,3 +45,23 @@
     transform: scaleX(1);
   }
 }
+
+
+.styled-scrollbar::-webkit-scrollbar {
+  height: 5px; /* Width of the scrollbar */
+  border-radius: 100px;
+}
+
+.styled-scrollbar::-webkit-scrollbar-track {
+  background: #FFE3E780; /* Track color */
+  border-radius: 100px;
+}
+
+.styled-scrollbar::-webkit-scrollbar-thumb {
+  background: #089d7f; /* Thumb color */
+  border-radius: 100px;
+}
+
+.styled-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #089d7f; /* Thumb color on hover */
+}

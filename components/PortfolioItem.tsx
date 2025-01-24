@@ -13,7 +13,7 @@ export default function PortfolioItem({
   }
 }) {
   return (
-    <article className="w-[80vw] flex flex-col gap-y-3 max-w-[300px] bg-white/20 backdrop-blur-sm px-4 py-3 rounded-md min-h-[500px]">
+    <article className="w-[80vw] h-full flex flex-col gap-y-3 max-w-[300px] bg-white/20 backdrop-blur-sm px-4 py-3 rounded-md min-h-[500px]">
       <Image
         onClick={() => window.open(project.liveSite, "_blank")}
         width={300}
