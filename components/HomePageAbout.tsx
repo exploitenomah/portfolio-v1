@@ -36,8 +36,8 @@ export default function About() {
           in building scalable, high-performance web applications that deliver
           impactful user experiences. Currently pursuing a BSc in Computer
           Science at the National Open University of Nigeria (NOUN), I&apos;m
-          also the founder of
-          <a href="roomeyfinder.com" target="_blank">
+          also the founder of&nbsp;
+          <a href="https://roomeyfinder.com" target="_blank">
             RoomeyFinder
           </a>
           , a startup simplifying roommate matching for Nigerian students.
